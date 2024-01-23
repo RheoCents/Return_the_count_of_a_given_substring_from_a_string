@@ -2,4 +2,4 @@
 text_given = str('Emma is good developer. Emma is a writer')
 
 Emma_count = text_given.count('Emma')
-print ('The word "Emma" appeared ', Emma_count, 'times')
+print ('The word "Emma" appeared ', Emma_count, 'times in the given text.')
